@@ -50,10 +50,6 @@ The general form of a PM signal can be represented as:
 
 • If any Error, correct it in code and execute again.
 
-### Model Graph:
-
-<img width="410" height="293" alt="image" src="https://github.com/user-attachments/assets/523128c9-f936-43d0-b7fb-04a2bcaf7efb" />
-
 ### Program:
 ~~~
 Am=12.33;
